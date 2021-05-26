@@ -15,6 +15,3 @@ elif x < 0:
     print("y = ", y)
 else:
     print()
-
-
-
