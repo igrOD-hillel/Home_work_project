@@ -12,3 +12,5 @@ elif a > c > b or b > c > a:
     print("Среднее значение, C=", c)
 else:
     print("STOP")
+
+
